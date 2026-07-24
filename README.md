@@ -1,4 +1,4 @@
-## Hi there 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&pause=1000&width=435&lines=Namaste+%2C+there+%F0%9F%99%8F;I'm+Manya)](https://git.io/typing-svg)
 _A second year Computer Science and Cybersecurity student 
 <!--
